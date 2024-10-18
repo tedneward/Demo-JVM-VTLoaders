@@ -1,2 +1,4 @@
-# Demo-JVM-VTLoaders
-A repository demonstrating virtual threads and ClassLoaders together, looking for a bug
+# VTLoaders
+
+An experiment with ClassLoaders and virtual threads.
+
